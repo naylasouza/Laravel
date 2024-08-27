@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Projeto Laravel
 
 Este é um projeto CRUD (Create, Read, Update, Delete) desenvolvido em Laravel. O objetivo deste projeto é fornecer uma aplicação simples que permita criar, editar e excluir itens no banco de dados.
 
